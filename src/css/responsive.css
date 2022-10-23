@@ -1,0 +1,107 @@
+@media screen and (max-width: 1008px) {
+  /* .footer .f-social {
+    font-size: 2vw !important;
+  }
+
+  .footer .mid span {
+    font-size: 2vw !important;
+  }
+
+  .footer .copyright {
+    font-size: 1vw;
+  } */
+
+  .footer .f-social {
+    margin-right: 30px !important;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .hero-content {
+    left: 50% !important;
+    top: 60% !important;
+    transform: translate(-50%, -60%) !important;
+    width: 90%;
+  }
+  .riwayat .left-section h1 {
+    font-size: 45px !important;
+  }
+  .riwayat .left-section h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .riwayat .left-section {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .footer .left {
+    display: flex;
+    justify-content: center;
+  }
+
+  .footer .right {
+    justify-content: center !important;
+  }
+
+  .footer .copyright {
+    text-align: center !important;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .navigation {
+    padding: 0 10px !important;
+  }
+  .hero-content h1 {
+    font-size: 7vw !important;
+  }
+
+  .hero-content .name {
+    font-size: 7vw !important;
+  }
+
+  .hello {
+    font-size: 6vw;
+  }
+
+  .basic .bas {
+    margin-bottom: 30px;
+  }
+
+  .riwayat .left-section h1 {
+    font-size: 40px !important;
+  }
+  .riwayat .left-section h2 {
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+
+  .riwayat .ido {
+    padding: 80px 0;
+  }
+
+  .footer {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 415px) {
+  .container-hero {
+    height: 550px !important;
+  }
+  .container-hero .hello {
+    font-size: 28px;
+  }
+
+  .container-hero h1 {
+    font-size: 30px;
+  }
+
+  .container-content {
+    padding: 20px !important;
+  }
+}
